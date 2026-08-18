@@ -1,7 +1,8 @@
-# Parkinson's Disease Classification (Speech Features) — ML Assignment 2
+# <center>        **Machine Learning - ASSIGNMENT-I**</center>
 
-**Course:** M.Tech (AIML/DSE) — Machine Learning, WILP, BITS Pilani
-**Assignment:** Assignment 2 — Multi-model classification + Streamlit deployment
+**Name:** Ghantasala Jaya Priya  
+**Student ID:** 2025DA04138
+### **Parkinson's Disease Classification (Speech Features)**
 
 ---
 
@@ -71,8 +72,7 @@ should upload in the Streamlit app to see predictions and metrics.
 
 ## c. GitHub Repository Link
 
-> **TODO:** Replace this with your own repository link after you push, e.g.
-> `https://github.com/<your-username>/ml-assignment2-parkinsons-speech`
+> `https://github.com/JayapriyaG-2/ML_Assignment_2/`
 
 ## d. Models Used
 
@@ -154,6 +154,4 @@ streamlit run app.py           # launches the app locally
   the same uploaded data, side by side
 
 ## Live App
-
-> **TODO:** Replace with your deployed Streamlit Community Cloud URL after
-> deployment, e.g. `https://your-app-name.streamlit.app`
+https://2025da04138-ml-assignment2.streamlit.app/

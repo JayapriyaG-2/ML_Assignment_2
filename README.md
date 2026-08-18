@@ -49,7 +49,7 @@ models are demonstrated through an interactive Streamlit web application.
   dropped as a feature (used only to define the patient-level split, see
   below) and `class` was used as the target.
 
-### ⚠️ Patient-level train/test split (important methodological note)
+### Patient-level train/test split (important methodological note)
 
 Because each of the 252 patients contributed **exactly 3 recordings**, a
 naive random 80/20 row-wise split would place recordings from the *same*

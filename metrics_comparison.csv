@@ -1,0 +1,6 @@
+ML Model Name,Accuracy,AUC,Precision,Recall,F1,MCC
+Logistic Regression,0.8105,0.8385,0.8868,0.8468,0.8664,0.5428
+Decision Tree,0.7647,0.6972,0.8319,0.8468,0.8393,0.4006
+kNN,0.8039,0.8207,0.814,0.9459,0.875,0.4596
+Naive Bayes,0.6732,0.712,0.8211,0.7027,0.7573,0.2741
+Random Forest (Ensemble),0.8301,0.9186,0.8195,0.982,0.8934,0.5435
